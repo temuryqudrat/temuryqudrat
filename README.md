@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<h2> qudrat </h2>
+<h2> Temury Qudratullah</h2>
 <br>
-<p> some text</p>
+<p> IDM22-04</p>
